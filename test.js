@@ -1,3 +1,3 @@
 function shane(){
-  console.log("is the shane")
+  console.log("is yes the shane")
 }
