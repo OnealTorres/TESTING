@@ -1,11 +1,21 @@
 
+//Charle's Code
+function charles(){
+  console.log("charles")
+//console.log("charles")
+}
 
 
 
 
+
+
+function oneal(){
+console.log("oneal charess forever")
+}
 
 
 function shane(){
-  console.log("is yes the shane")
+console.log("is yes the shane")
 }
 
