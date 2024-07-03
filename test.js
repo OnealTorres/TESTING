@@ -1,12 +1,12 @@
-//Oneal's Code
-function oneal() {
-  console.log("asdasdasd");
+function charles(){
+    console.log("charles")
 }
-
-//Charle's Code
 
 oneal();
 charles();
 shane();
 mommy();
 daddy();
+
+
+
