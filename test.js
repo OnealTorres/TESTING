@@ -5,15 +5,9 @@ function charles(){
 //console.log("charles")
 }
 
-
-
-
-
-
 function oneal(){
 console.log("oneal charess forever")
 }
-
 
 function shane(){
 console.log("is yes the shane")
