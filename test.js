@@ -1,16 +1,3 @@
-function charles(){
-    console.log("charles")
+function shane(){
+  console.log("shane")
 }
-
-function oneal(){
-  console.log("oneals")
-}
-
-oneal();
-charles();
-shane();
-mommy();
-daddy();
-
-
-
